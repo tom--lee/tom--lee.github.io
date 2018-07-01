@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Dr Thomas Lee</title>
+    <link>http://tomlee.com.au/home/</link>
+    <description>Recent content in Homes on Dr Thomas Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Thomas Lee</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tomlee.com.au/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://tomlee.com.au/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tomlee.com.au/home/about/</guid>
+      <description>My research Understanding the behavior and organization of molecules at the nanoscale is essential to further advances in many areas of technology. Molecular simulations provide the atomic-level detail necessary to obtain this understanding. I use molecular dynamics simulations to gain insight into a range of systems, including responsive polymer surfaces, shale gas reservoirs, organic LEDs and solar cells, protein folding, and cell membranes.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://tomlee.com.au/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tomlee.com.au/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://tomlee.com.au/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tomlee.com.au/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://tomlee.com.au/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tomlee.com.au/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

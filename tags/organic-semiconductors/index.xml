@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organic Semiconductors on Dr Thomas Lee</title>
+    <link>http://tomlee.com.au/tags/organic-semiconductors/</link>
+    <description>Recent content in Organic Semiconductors on Dr Thomas Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Thomas Lee</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tomlee.com.au/tags/organic-semiconductors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organic semiconductor morphology</title>
+      <link>http://tomlee.com.au/project/organic_semiconductors/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tomlee.com.au/project/organic_semiconductors/</guid>
+      <description>The optical and electronic properties of organic semiconductor thin films are intimately coupled to their morphology at the atomic level. Atomic level morphology cannot be probed experimentally. However, molecular simulations can provide a means to examine the morphologies of thin films with unrivalled spatial resolution. By directly mimicking the process by which organic semiconductor thin films are produced experimentally using either solution or vacuum processing, we have generated realistic morphologies for both organic light-emitting diodes (OLEDs) and organic photovoltaics (OPVs).</description>
+    </item>
+    
+  </channel>
+</rss>

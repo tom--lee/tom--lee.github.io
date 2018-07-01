@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Force Fields on Dr Thomas Lee</title>
+    <link>http://tomlee.com.au/tags/force-fields/</link>
+    <description>Recent content in Force Fields on Dr Thomas Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Thomas Lee</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tomlee.com.au/tags/force-fields/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biomolecular force field validation</title>
+      <link>http://tomlee.com.au/project/force_fields/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tomlee.com.au/project/force_fields/</guid>
+      <description>Classical molecular dynamics simulations are widely used to model biomolecular systems for drug design, protein structure determination, and biophysics research in general. In classical molecular dynamics, the movement of the atoms and molecules is obtained by numerically integrating Newton’s equations of motion as a function of time. The reliability of such simulations is dependent on the accuracy of the model used to describe the forces acting on the atoms. These models are commonly referred to as “force fields”.</description>
+    </item>
+    
+  </channel>
+</rss>

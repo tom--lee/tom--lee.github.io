@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dr Thomas Lee</title>
+    <link>http://tomlee.com.au/publication/</link>
+    <description>Recent content in Publications on Dr Thomas Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Thomas Lee</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tomlee.com.au/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Molecular Origin of Anisotropic Emission in an Organic Light-Emitting Diode</title>
+      <link>http://tomlee.com.au/publication/oled_morphology/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tomlee.com.au/publication/oled_morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing the environmental impact of fracking</title>
+      <link>http://tomlee.com.au/publication/shale_gas/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tomlee.com.au/publication/shale_gas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
